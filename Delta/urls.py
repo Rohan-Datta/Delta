@@ -1,6 +1,8 @@
 from django.contrib import admin
 from django.urls import path, re_path
 from ItemsAPI import views
+from rest_framework.urlpatterns import format_suffix_patterns
+from UserAPI import views as user_views
 
 urlpatterns = [
     
@@ -27,4 +29,11 @@ urlpatterns = [
     #gpu/1/
     re_path('gpu/(?P<pk>[0-9]+)/', views.GPUDetail.as_view()),
     
+    #users/
+    path('users/', user_views.UserList.as_view()),
+
+    #users/1/
+    re_path('users/(?P<pk>[0-9]+)/', user_views.UserDetail.as_view()),
 ]
+
+urlpatterns = format_suffix_patterns(urlpatterns)
