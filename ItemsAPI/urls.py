@@ -1,12 +1,7 @@
-from django.contrib import admin
 from django.urls import path, re_path
 from ItemsAPI import views
 
 urlpatterns = [
-    
-    #admin/
-    path('admin/', admin.site.urls),
-
     #laptop/
     path('laptop/', views.LaptopList.as_view()),
     #laptop/1/
