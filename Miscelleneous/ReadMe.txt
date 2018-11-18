@@ -6,12 +6,9 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
-<<<<<<< HEAD
 In settings.py, rest_framework etc should be at the top, dev-defined apps at the end
-=======
-DEPENDENCIES :
 
+DEPENDENCIES :
 django_mysql
 colorthief
 rest_framework
->>>>>>> ad227fab380a02db3808df62b7cddc7907c785f9

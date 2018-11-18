@@ -1,0 +1,401 @@
+company_id,company_name,location,company_type,primary_color,secondary_colour
+0,Styx Bank,BR|Brazil,Bank,#8A2BE2,#9370DB
+1,Cain Bank,NI|Nicaragua,Bank,#8A2BE2,#9370DB
+2,Princeton Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+3,Lancelot Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+4,Wainwright Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+5,Pratt Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+6,Zurich Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+7,AMA Bank,MY|Malaysia,Bank,#8A2BE2,#9370DB
+8,Noel Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+9,Havilland Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+10,Rigel Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+11,Rembrandt Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+12,Kankakee Bank,BR|Brazil,Bank,#8A2BE2,#9370DB
+13,Deborah Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+14,Greenblatt Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+15,Hewlett Bank,MY|Malaysia,Bank,#8A2BE2,#9370DB
+16,Bourbaki Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+17,Johnstown Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+18,NCAA Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+19,Latinate Bank,AZ|Azerbaijan,Bank,#8A2BE2,#9370DB
+20,Stevenson Bank,GD|Grenada,Bank,#8A2BE2,#9370DB
+21,Rubin Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+22,Lancelot Bank,AZ|Azerbaijan,Bank,#8A2BE2,#9370DB
+23,Liggett Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+24,Hoosier Bank,GQ|Equatorial Guinea,Bank,#8A2BE2,#9370DB
+25,Waldorf Bank,CI|Cote D'ivoire,Bank,#8A2BE2,#9370DB
+26,Jewish Bank,NI|Nicaragua,Bank,#8A2BE2,#9370DB
+27,Warsaw Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+28,Nelson Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+29,Alison Bank,VE|Venezuela,Bank,#8A2BE2,#9370DB
+30,Earthman Bank,AZ|Azerbaijan,Bank,#8A2BE2,#9370DB
+31,Lindstrom Bank,MY|Malaysia,Bank,#8A2BE2,#9370DB
+32,Scribners Bank,CI|Cote D'ivoire,Bank,#8A2BE2,#9370DB
+33,Thorstein Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+34,Wooster Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+35,Houghton Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+36,Bassett Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+37,Oneida Bank,NI|Nicaragua,Bank,#8A2BE2,#9370DB
+38,Gershwin Bank,VE|Venezuela,Bank,#8A2BE2,#9370DB
+39,Unix Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+40,Kemp Bank,GD|Grenada,Bank,#8A2BE2,#9370DB
+41,Allyn Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+42,Alton Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+43,Lubbock Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+44,Mayo Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+45,Callaghan Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+46,Watanabe Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+47,Ohio Bank,AZ|Azerbaijan,Bank,#8A2BE2,#9370DB
+48,Sinology Bank,GQ|Equatorial Guinea,Bank,#8A2BE2,#9370DB
+49,Eva Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+50,Havilland Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+51,Karamazov Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+52,Crosby Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+53,Eulerian Bank,CI|Cote D'ivoire,Bank,#8A2BE2,#9370DB
+54,Rangoon Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+55,Adkins Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+56,Monday Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+57,Vladimir Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+58,Marjory Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+59,Pygmalion Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+60,Gunderson Bank,BR|Brazil,Bank,#8A2BE2,#9370DB
+61,Cumberland Bank,MY|Malaysia,Bank,#8A2BE2,#9370DB
+62,Lipschitz Bank,GD|Grenada,Bank,#8A2BE2,#9370DB
+63,Tahoe Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+64,Ithaca Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+65,Hugh Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+66,Aarhus Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+67,Geigy Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+68,Rio Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+69,Arthur Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+70,Cabot Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+71,Prescott Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+72,Raritan Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+73,Jerusalem Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+74,Brendan Bank,GD|Grenada,Bank,#8A2BE2,#9370DB
+75,Lyon Bank,VE|Venezuela,Bank,#8A2BE2,#9370DB
+76,Berlin Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+77,Pangaea Bank,VE|Venezuela,Bank,#8A2BE2,#9370DB
+78,Rodgers Bank,MY|Malaysia,Bank,#8A2BE2,#9370DB
+79,Keenan Bank,DM|Dominica,Bank,#8A2BE2,#9370DB
+80,Gerard Bank,AF|Afghanistan,Bank,#8A2BE2,#9370DB
+81,Hickey Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+82,Fujitsu Bank,UA|Ukraine,Bank,#8A2BE2,#9370DB
+83,Pythagorean Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+84,Coates Bank,HR|Croatia,Bank,#8A2BE2,#9370DB
+85,Pamela Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+86,Guilford Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+87,Pete Bank,NI|Nicaragua,Bank,#8A2BE2,#9370DB
+88,Bahrein Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+89,Henderson Bank,AG|Antigua And Barbuda,Bank,#8A2BE2,#9370DB
+90,ABA Bank,ET|Ethiopia,Bank,#8A2BE2,#9370DB
+91,Trojan Bank,"IR|Iran, Islamic Republic Of",Bank,#8A2BE2,#9370DB
+92,Lotte Bank,AE|United Arab Emirates,Bank,#8A2BE2,#9370DB
+93,Kalmuk Bank,NI|Nicaragua,Bank,#8A2BE2,#9370DB
+94,Berman Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+95,Wilhelmina Bank,CI|Cote D'ivoire,Bank,#8A2BE2,#9370DB
+96,Berkshire Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+97,Lucerne Bank,NC|New Caledonia,Bank,#8A2BE2,#9370DB
+98,Yoder Bank,CC|Cocos (keeling) Islands,Bank,#8A2BE2,#9370DB
+99,Tulsa Bank,VE|Venezuela,Bank,#8A2BE2,#9370DB
+100,Fitzpatrick Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+101,Shafer Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+102,Kauffman Hospital,ET|Ethiopia,HealthCare,#FFA07A,#E9967A
+103,Baird Hospital,CC|Cocos (keeling) Islands,HealthCare,#FFA07A,#E9967A
+104,Rene Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+105,Tanzania Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+106,Creon Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+107,Heathkit Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+108,Galloway Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+109,Lena Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+110,Thelma Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+111,Blackman Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+112,Constantine Hospital,AF|Afghanistan,HealthCare,#FFA07A,#E9967A
+113,Minneapolis Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+114,Laidlaw Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+115,Aeneid Hospital,AE|United Arab Emirates,HealthCare,#FFA07A,#E9967A
+116,Manama Hospital,MY|Malaysia,HealthCare,#FFA07A,#E9967A
+117,Allstate Hospital,UA|Ukraine,HealthCare,#FFA07A,#E9967A
+118,Gilligan Hospital,HR|Croatia,HealthCare,#FFA07A,#E9967A
+119,Edith Hospital,HR|Croatia,HealthCare,#FFA07A,#E9967A
+120,Chinese Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+121,Gurkha Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+122,Pravda Hospital,AZ|Azerbaijan,HealthCare,#FFA07A,#E9967A
+123,Nicaragua Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+124,Angola Hospital,AZ|Azerbaijan,HealthCare,#FFA07A,#E9967A
+125,Quezon Hospital,CC|Cocos (keeling) Islands,HealthCare,#FFA07A,#E9967A
+126,Bucknell Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+127,Turin Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+128,Kahn Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+129,Kane Hospital,AE|United Arab Emirates,HealthCare,#FFA07A,#E9967A
+130,Mervin Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+131,Icelandic Hospital,MY|Malaysia,HealthCare,#FFA07A,#E9967A
+132,Lucretius Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+133,Pasadena Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+134,Swede Hospital,GQ|Equatorial Guinea,HealthCare,#FFA07A,#E9967A
+135,Scribners Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+136,Reykjavik Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+137,Baden Hospital,AE|United Arab Emirates,HealthCare,#FFA07A,#E9967A
+138,Shelley Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+139,Hawaii Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+140,Benz Hospital,HR|Croatia,HealthCare,#FFA07A,#E9967A
+141,Corey Hospital,DM|Dominica,HealthCare,#FFA07A,#E9967A
+142,Brigham Hospital,DM|Dominica,HealthCare,#FFA07A,#E9967A
+143,Merle Hospital,NI|Nicaragua,HealthCare,#FFA07A,#E9967A
+144,Schofield Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+145,Uris Hospital,GQ|Equatorial Guinea,HealthCare,#FFA07A,#E9967A
+146,Berglund Hospital,AZ|Azerbaijan,HealthCare,#FFA07A,#E9967A
+147,Angeline Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+148,Abe Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+149,Gwyn Hospital,NI|Nicaragua,HealthCare,#FFA07A,#E9967A
+150,Laban Hospital,AE|United Arab Emirates,HealthCare,#FFA07A,#E9967A
+151,Bryn Hospital,DM|Dominica,HealthCare,#FFA07A,#E9967A
+152,Inman Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+153,Pavlovian Hospital,AF|Afghanistan,HealthCare,#FFA07A,#E9967A
+154,Chippendale Hospital,ET|Ethiopia,HealthCare,#FFA07A,#E9967A
+155,Nina Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+156,Cleveland Hospital,"IR|Iran, Islamic Republic Of",HealthCare,#FFA07A,#E9967A
+157,Missouri Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+158,Laue Hospital,CC|Cocos (keeling) Islands,HealthCare,#FFA07A,#E9967A
+159,Palmyra Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+160,Bethesda Hospital,CC|Cocos (keeling) Islands,HealthCare,#FFA07A,#E9967A
+161,Ida Hospital,MY|Malaysia,HealthCare,#FFA07A,#E9967A
+162,Patricia Hospital,UA|Ukraine,HealthCare,#FFA07A,#E9967A
+163,Clotho Hospital,NI|Nicaragua,HealthCare,#FFA07A,#E9967A
+164,Leona Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+165,Judy Hospital,ET|Ethiopia,HealthCare,#FFA07A,#E9967A
+166,Copernican Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+167,Plutarch Hospital,UA|Ukraine,HealthCare,#FFA07A,#E9967A
+168,Hyades Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+169,Cabot Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+170,Powell Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+171,Stanhope Hospital,AE|United Arab Emirates,HealthCare,#FFA07A,#E9967A
+172,Avogadro Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+173,Ed Hospital,UA|Ukraine,HealthCare,#FFA07A,#E9967A
+174,Italian Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+175,Yorktown Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+176,Watergate Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+177,MacDougall Hospital,CI|Cote D'ivoire,HealthCare,#FFA07A,#E9967A
+178,Catalonia Hospital,AZ|Azerbaijan,HealthCare,#FFA07A,#E9967A
+179,Gregory Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+180,Canoga Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+181,Kepler Hospital,CC|Cocos (keeling) Islands,HealthCare,#FFA07A,#E9967A
+182,Champaign Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+183,Alsatian Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+184,Alva Hospital,NI|Nicaragua,HealthCare,#FFA07A,#E9967A
+185,Bose Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+186,Henderson Hospital,NI|Nicaragua,HealthCare,#FFA07A,#E9967A
+187,Paine Hospital,NC|New Caledonia,HealthCare,#FFA07A,#E9967A
+188,Ingram Hospital,AG|Antigua And Barbuda,HealthCare,#FFA07A,#E9967A
+189,Regulus Hospital,GQ|Equatorial Guinea,HealthCare,#FFA07A,#E9967A
+190,Maddox Hospital,DM|Dominica,HealthCare,#FFA07A,#E9967A
+191,Kensington Hospital,CI|Cote D'ivoire,HealthCare,#FFA07A,#E9967A
+192,Yaounde Hospital,ET|Ethiopia,HealthCare,#FFA07A,#E9967A
+193,Alabamian Hospital,MY|Malaysia,HealthCare,#FFA07A,#E9967A
+194,Baltimorean Hospital,VE|Venezuela,HealthCare,#FFA07A,#E9967A
+195,Brie Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+196,Talmudic Hospital,AF|Afghanistan,HealthCare,#FFA07A,#E9967A
+197,Zachary Hospital,GD|Grenada,HealthCare,#FFA07A,#E9967A
+198,Jaeger Hospital,HR|Croatia,HealthCare,#FFA07A,#E9967A
+199,Sutherland Hospital,BR|Brazil,HealthCare,#FFA07A,#E9967A
+200,Stephanie School,UA|Ukraine,Education,#FFFFE0,#FFFACD
+201,Mervin School,BR|Brazil,Education,#FFFFE0,#FFFACD
+202,Birmingham School,GD|Grenada,Education,#FFFFE0,#FFFACD
+203,Debbie School,ET|Ethiopia,Education,#FFFFE0,#FFFACD
+204,Fanny School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+205,Glidden School,AE|United Arab Emirates,Education,#FFFFE0,#FFFACD
+206,Cerberus School,CC|Cocos (keeling) Islands,Education,#FFFFE0,#FFFACD
+207,Apocrypha School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+208,Remington School,BR|Brazil,Education,#FFFFE0,#FFFACD
+209,Phobos School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+210,Wiggins School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+211,Holocene School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+212,O'Dell School,NI|Nicaragua,Education,#FFFFE0,#FFFACD
+213,Narbonne School,HR|Croatia,Education,#FFFFE0,#FFFACD
+214,Muzo School,CI|Cote D'ivoire,Education,#FFFFE0,#FFFACD
+215,Bauhaus School,GD|Grenada,Education,#FFFFE0,#FFFACD
+216,Bristol School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+217,Knowles School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+218,Eleanor School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+219,Luftwaffe School,ET|Ethiopia,Education,#FFFFE0,#FFFACD
+220,Leander School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+221,Mizar School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+222,Clifford School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+223,Niger School,NI|Nicaragua,Education,#FFFFE0,#FFFACD
+224,Orin School,AE|United Arab Emirates,Education,#FFFFE0,#FFFACD
+225,Maynard School,CI|Cote D'ivoire,Education,#FFFFE0,#FFFACD
+226,Allan School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+227,Oberlin School,GQ|Equatorial Guinea,Education,#FFFFE0,#FFFACD
+228,Regulus School,DM|Dominica,Education,#FFFFE0,#FFFACD
+229,Percival School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+230,Scripps School,GD|Grenada,Education,#FFFFE0,#FFFACD
+231,Carlton School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+232,Berlin School,DM|Dominica,Education,#FFFFE0,#FFFACD
+233,USSR School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+234,Dwight School,UA|Ukraine,Education,#FFFFE0,#FFFACD
+235,Prof School,CC|Cocos (keeling) Islands,Education,#FFFFE0,#FFFACD
+236,McKinney School,BR|Brazil,Education,#FFFFE0,#FFFACD
+237,Irishman School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+238,Langmuir School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+239,Foxhall School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+240,Gabon School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+241,Wellesley School,HR|Croatia,Education,#FFFFE0,#FFFACD
+242,Polyhymnia School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+243,Rica School,GD|Grenada,Education,#FFFFE0,#FFFACD
+244,Mahayanist School,GD|Grenada,Education,#FFFFE0,#FFFACD
+245,Clarke School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+246,Mooney School,BR|Brazil,Education,#FFFFE0,#FFFACD
+247,Bayonne School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+248,Celebes School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+249,Euripides School,HR|Croatia,Education,#FFFFE0,#FFFACD
+250,Kennecott School,AE|United Arab Emirates,Education,#FFFFE0,#FFFACD
+251,Mario School,HR|Croatia,Education,#FFFFE0,#FFFACD
+252,Beaujolais School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+253,Enoch School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+254,Kilgore School,NI|Nicaragua,Education,#FFFFE0,#FFFACD
+255,McKesson School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+256,Caleb School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+257,Hess School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+258,Windsor School,BR|Brazil,Education,#FFFFE0,#FFFACD
+259,Spica School,AF|Afghanistan,Education,#FFFFE0,#FFFACD
+260,Mathieu School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+261,Genoa School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+262,Carlin School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+263,Anthony School,"IR|Iran, Islamic Republic Of",Education,#FFFFE0,#FFFACD
+264,Betsy School,CI|Cote D'ivoire,Education,#FFFFE0,#FFFACD
+265,Acton School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+266,Ed School,DM|Dominica,Education,#FFFFE0,#FFFACD
+267,Antioch School,HR|Croatia,Education,#FFFFE0,#FFFACD
+268,PR School,CI|Cote D'ivoire,Education,#FFFFE0,#FFFACD
+269,Demeter School,NC|New Caledonia,Education,#FFFFE0,#FFFACD
+270,Newfoundland School,BR|Brazil,Education,#FFFFE0,#FFFACD
+271,Maharashtra School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+272,Stacy School,"IR|Iran, Islamic Republic Of",Education,#FFFFE0,#FFFACD
+273,Yvette School,CC|Cocos (keeling) Islands,Education,#FFFFE0,#FFFACD
+274,Schroeder School,GD|Grenada,Education,#FFFFE0,#FFFACD
+275,Calkins School,BR|Brazil,Education,#FFFFE0,#FFFACD
+276,Bern School,BR|Brazil,Education,#FFFFE0,#FFFACD
+277,Cottrell School,BR|Brazil,Education,#FFFFE0,#FFFACD
+278,Leonid School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+279,Davidson School,NI|Nicaragua,Education,#FFFFE0,#FFFACD
+280,Toni School,GD|Grenada,Education,#FFFFE0,#FFFACD
+281,Malthusian School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+282,Blythe School,AZ|Azerbaijan,Education,#FFFFE0,#FFFACD
+283,Gil School,GD|Grenada,Education,#FFFFE0,#FFFACD
+284,Skippy School,DM|Dominica,Education,#FFFFE0,#FFFACD
+285,Delia School,ET|Ethiopia,Education,#FFFFE0,#FFFACD
+286,Waldorf School,"IR|Iran, Islamic Republic Of",Education,#FFFFE0,#FFFACD
+287,Shasta School,"IR|Iran, Islamic Republic Of",Education,#FFFFE0,#FFFACD
+288,Debbie School,CC|Cocos (keeling) Islands,Education,#FFFFE0,#FFFACD
+289,Mudd School,GD|Grenada,Education,#FFFFE0,#FFFACD
+290,Getty School,AE|United Arab Emirates,Education,#FFFFE0,#FFFACD
+291,Napoleon School,MY|Malaysia,Education,#FFFFE0,#FFFACD
+292,Ridgway School,VE|Venezuela,Education,#FFFFE0,#FFFACD
+293,SST School,UA|Ukraine,Education,#FFFFE0,#FFFACD
+294,Hansel School,GQ|Equatorial Guinea,Education,#FFFFE0,#FFFACD
+295,Piccadilly School,"IR|Iran, Islamic Republic Of",Education,#FFFFE0,#FFFACD
+296,Eileen School,CC|Cocos (keeling) Islands,Education,#FFFFE0,#FFFACD
+297,Calgary School,UA|Ukraine,Education,#FFFFE0,#FFFACD
+298,Modesto School,AG|Antigua And Barbuda,Education,#FFFFE0,#FFFACD
+299,Mayer School,BR|Brazil,Education,#FFFFE0,#FFFACD
+300,Livermore Store,NI|Nicaragua,RetailStores,#87CEFA,#4682B4
+301,Transvaal Store,CC|Cocos (keeling) Islands,RetailStores,#87CEFA,#4682B4
+302,Carruthers Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+303,Walcott Store,CC|Cocos (keeling) Islands,RetailStores,#87CEFA,#4682B4
+304,Chloe Store,GD|Grenada,RetailStores,#87CEFA,#4682B4
+305,Tristan Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+306,Eunice Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+307,Betty Store,UA|Ukraine,RetailStores,#87CEFA,#4682B4
+308,Palatine Store,AZ|Azerbaijan,RetailStores,#87CEFA,#4682B4
+309,Zealand Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+310,USSR Store,BR|Brazil,RetailStores,#87CEFA,#4682B4
+311,Charybdis Store,NI|Nicaragua,RetailStores,#87CEFA,#4682B4
+312,Monaco Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+313,Poe Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+314,Rumford Store,AG|Antigua And Barbuda,RetailStores,#87CEFA,#4682B4
+315,Agnew Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+316,Mendel Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+317,Terpsichore Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+318,Cohn Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+319,Dave Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+320,DuPont Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+321,Armageddon Store,CC|Cocos (keeling) Islands,RetailStores,#87CEFA,#4682B4
+322,Eucharist Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+323,Galilee Store,AF|Afghanistan,RetailStores,#87CEFA,#4682B4
+324,GSA Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+325,Nikko Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+326,Albrecht Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+327,Braille Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+328,Doyle Store,UA|Ukraine,RetailStores,#87CEFA,#4682B4
+329,Bessemer Store,NI|Nicaragua,RetailStores,#87CEFA,#4682B4
+330,Jaeger Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+331,IQ Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+332,Dutchmen Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+333,Bonaventure Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+334,Kannada Store,CC|Cocos (keeling) Islands,RetailStores,#87CEFA,#4682B4
+335,David Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+336,Sal Store,AF|Afghanistan,RetailStores,#87CEFA,#4682B4
+337,Stokes Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+338,Patti Store,AF|Afghanistan,RetailStores,#87CEFA,#4682B4
+339,Maxine Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+340,Transylvania Store,NI|Nicaragua,RetailStores,#87CEFA,#4682B4
+341,Dolan Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+342,Justine Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+343,Oklahoma Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+344,Janus Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+345,Monterey Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+346,Constantine Store,UA|Ukraine,RetailStores,#87CEFA,#4682B4
+347,Carl Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+348,Crispin Store,GD|Grenada,RetailStores,#87CEFA,#4682B4
+349,Montpelier Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+350,Deirdre Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+351,Colloq Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+352,Earthmen Store,AG|Antigua And Barbuda,RetailStores,#87CEFA,#4682B4
+353,Cruz Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+354,Edmondson Store,NI|Nicaragua,RetailStores,#87CEFA,#4682B4
+355,Hellespont Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+356,Lloyd Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+357,Thayer Store,GD|Grenada,RetailStores,#87CEFA,#4682B4
+358,Heinz Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+359,Mexican Store,GD|Grenada,RetailStores,#87CEFA,#4682B4
+360,Anastasia Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+361,Aldebaran Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+362,Sumner Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+363,Kernighan Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+364,Erik Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+365,Mel Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+366,Buddha Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+367,Bruce Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+368,Platte Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+369,Magdalene Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+370,Saxon Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+371,Persia Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+372,Dane Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+373,Irma Store,DM|Dominica,RetailStores,#87CEFA,#4682B4
+374,Yeats Store,AZ|Azerbaijan,RetailStores,#87CEFA,#4682B4
+375,Allison Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+376,Leighton Store,GD|Grenada,RetailStores,#87CEFA,#4682B4
+377,Bach Store,AG|Antigua And Barbuda,RetailStores,#87CEFA,#4682B4
+378,Grimaldi Store,ET|Ethiopia,RetailStores,#87CEFA,#4682B4
+379,Ali Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+380,Cyril Store,AG|Antigua And Barbuda,RetailStores,#87CEFA,#4682B4
+381,Smyrna Store,AF|Afghanistan,RetailStores,#87CEFA,#4682B4
+382,Goliath Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+383,Ben Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+384,Hebraic Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+385,Boris Store,GQ|Equatorial Guinea,RetailStores,#87CEFA,#4682B4
+386,Andromeda Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+387,Nantucket Store,AZ|Azerbaijan,RetailStores,#87CEFA,#4682B4
+388,Barnabas Store,HR|Croatia,RetailStores,#87CEFA,#4682B4
+389,Klux Store,CC|Cocos (keeling) Islands,RetailStores,#87CEFA,#4682B4
+390,Tomlinson Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+391,Siamese Store,NC|New Caledonia,RetailStores,#87CEFA,#4682B4
+392,Bruegel Store,VE|Venezuela,RetailStores,#87CEFA,#4682B4
+393,Herkimer Store,AF|Afghanistan,RetailStores,#87CEFA,#4682B4
+394,Lotte Store,CI|Cote D'ivoire,RetailStores,#87CEFA,#4682B4
+395,Indonesia Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+396,Aitken Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4
+397,Salvatore Store,"IR|Iran, Islamic Republic Of",RetailStores,#87CEFA,#4682B4
+398,Yarmouth Store,UA|Ukraine,RetailStores,#87CEFA,#4682B4
+399,Enrico Store,MY|Malaysia,RetailStores,#87CEFA,#4682B4

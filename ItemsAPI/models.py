@@ -35,7 +35,7 @@ class Item(models.Model):
         return '{} - {}'.format(self.name, self.posted_by)
 
 class Laptop(models.Model):
-    index = models.IntegerField(primary_key=True)
+    #index = models.IntegerField(primary_key=True)
     company = models.CharField(max_length=200)
     product = models.CharField(max_length=200)
     type_name = models.CharField(max_length=200)
@@ -58,24 +58,23 @@ class Laptop(models.Model):
 # Workstations - Show Laptops Only
 
 class Server(models.Model):
-    index = models.IntegerField(primary_key=True)
+    #index = models.IntegerField(primary_key=True)
     company = models.CharField(max_length=200)
     product = models.CharField(max_length=200)
     name = models.CharField(max_length=200)
     photo_url = models.CharField(max_length=1000)
 
 class GPU(models.Model):
-    index = models.IntegerField(primary_key=True)
+    #index = models.IntegerField(primary_key=True)
     company = models.CharField(max_length=200)
     product = models.CharField(max_length=200)
     name = models.CharField(max_length=200)
     photo_url = models.CharField(max_length=1000)
 
 class Accessory(models.Model):
-    index = models.IntegerField(primary_key=True)
+    #index = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=200)
     accessory_type = models.CharField(max_length=10, choices=ACCESSORY_TYPES, null=False)
     company = models.CharField(max_length=200)
     product = models.CharField(max_length=200)
     photo_url = models.CharField(max_length=1000)
-
