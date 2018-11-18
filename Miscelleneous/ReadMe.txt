@@ -6,3 +6,4 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
+In settings.py, rest_framework etc should be at the top, dev-defined apps at the end
