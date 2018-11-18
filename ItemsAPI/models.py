@@ -30,7 +30,7 @@ ACCESSORY_TYPES = ((ADAPTER, "Adapters"), (BAG, "Bags"), (MOUSE, "Mouse"), (KEYB
 class Item(models.Model):
     name = models.CharField(max_length=200)
     item_type = models.CharField(max_length=10, choices=ITEMS_TYPES, null=False)
-    
+
     def __str__(self):
         return '{} - {}'.format(self.name, self.posted_by)
 
@@ -53,12 +53,11 @@ class Laptop(models.Model):
     def __str__(self):
         return '{} - {} - {}'.format(self.company, self.product, self.type_name)
 
-    
 # Desktops - Show Laptops Only
 
 # Workstations - Show Laptops Only
 
-class Server(models.Model):    
+class Server(models.Model):
     index = models.IntegerField(primary_key=True)
     company = models.CharField(max_length=200)
     product = models.CharField(max_length=200)

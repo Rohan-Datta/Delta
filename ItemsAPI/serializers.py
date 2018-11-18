@@ -1,4 +1,4 @@
-from ItemsAPI.models import Laptop, Server, Accessory, GPU
+from ItemsAPI.models import *
 from rest_framework import serializers
 
 

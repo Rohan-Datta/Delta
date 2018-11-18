@@ -1,8 +1,8 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-from ItemsAPI.models import Laptop, Server, Accessory, GPU
-from ItemsAPI.serializers import LaptopSerializer, ServerSerializer, AccessorySerializer, GPUSerializer
+from ItemsAPI.models import *
+from ItemsAPI.serializers import *
 from django.http import Http404
 from rest_framework.pagination import PageNumberPagination
 

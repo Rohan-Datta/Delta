@@ -4,4 +4,9 @@ from UserAPI.models import *
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ('displayName','email','uid','company_name','company_type')
+        fields = ('company_id','company_name','location','company_type','primary_color','secondary_color')
+
+class ProfileSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Profile
+        fields = ('name', 'role', 'company')
