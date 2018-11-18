@@ -6,3 +6,8 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
+DEPENDENCIES :
+
+django_mysql
+colorthief
+rest_framework
