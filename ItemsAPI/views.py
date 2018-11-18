@@ -4,14 +4,18 @@ from rest_framework import status
 from ItemsAPI.models import Laptop, Server, Accessory, GPU
 from ItemsAPI.serializers import LaptopSerializer, ServerSerializer, AccessorySerializer, GPUSerializer
 from django.http import Http404
+from rest_framework.pagination import PageNumberPagination
+
 
 # Lists all laptops
 class LaptopList(APIView):
     def get(self, request):
-    	laptops = Laptop.objects.all()
-
-    	serializer = LaptopSerializer(laptops, many=True)
-    	return Response(serializer.data)
+        laptops = Laptop.objects.all()
+        paginator = PageNumberPagination()
+        result_page = paginator.paginate_queryset(laptops, request)
+        serializer = LaptopSerializer(result_page, many=True)
+    	
+        return paginator.get_paginated_response(serializer.data)
 
 # Get individual laptop details
 class LaptopDetail(APIView):
@@ -20,6 +24,12 @@ class LaptopDetail(APIView):
         snippet = self.get_object(pk)
         serializer = LaptopSerializer(snippet)
         return Response(serializer.data)
+
+    def get_object(self, pk):
+        try:
+            return Laptop.objects.get(pk=pk)
+        except Laptop.DoesNotExist:
+            raise Http404    
 
 
 # Lists all servers
@@ -37,6 +47,12 @@ class ServerDetail(APIView):
         snippet = self.get_object(pk)
         serializer = ServerSerializer(snippet)
         return Response(serializer.data)
+    
+    def get_object(self, pk):
+        try:
+            return Server.objects.get(pk=pk)
+        except Server.DoesNotExist:
+            raise Http404
 
 # Lists all accessory
 class AccessoryList(APIView):
@@ -45,7 +61,7 @@ class AccessoryList(APIView):
 
     	serializer = LaptopSerializer(accessories, many=True)
     	return Response(serializer.data)
-
+    
 # Get individual accessory details
 class AccessoryDetail(APIView):
 
@@ -53,6 +69,12 @@ class AccessoryDetail(APIView):
         snippet = self.get_object(pk)
         serializer = AccessorySerializer(snippet)
         return Response(serializer.data)
+
+    def get_object(self, pk):
+        try:
+            return Accessory.objects.get(pk=pk)
+        except Accessory.DoesNotExist:
+            raise Http404
 
 # Lists all GPUs
 class GPUList(APIView):
@@ -69,3 +91,9 @@ class GPUDetail(APIView):
         snippet = self.get_object(pk)
         serializer = GPUSerializer(snippet)
         return Response(serializer.data)
+
+    def get_object(self, pk):
+        try:
+            return GPU.objects.get(pk=pk)
+        except GPU.DoesNotExist:
+            raise Http404

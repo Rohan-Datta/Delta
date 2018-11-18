@@ -14,6 +14,9 @@ urlpatterns = [
     #laptop/1/
     re_path('laptop/(?P<pk>[0-9]+)/', views.LaptopDetail.as_view()),
     
+    #laptop/?page=1
+    #List the first page
+
     #accessory/
     path('accessory/', views.AccessoryList.as_view()),
     #accessory/1/
